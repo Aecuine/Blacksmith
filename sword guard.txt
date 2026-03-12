@@ -1,0 +1,7 @@
+Straight,|
+Ornate,I
+Thick,K
+Cross,+
+Catch,{
+Deflect,)
+Clamshell,l

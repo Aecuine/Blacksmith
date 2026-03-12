@@ -1,0 +1,4 @@
+Round,O
+Ring,¤
+Spike,<
+No,

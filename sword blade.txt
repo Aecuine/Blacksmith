@@ -1,0 +1,6 @@
+Long,======>
+Short,====>
+Dagger,==>
+Great,:::::::>
+Catch,ttttt>
+Thin,------
