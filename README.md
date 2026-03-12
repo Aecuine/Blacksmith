@@ -12,6 +12,6 @@ From the menu, users are also able to generate their own parts for use in the ma
 Title art thanks to this FIGlet generator: https://www.askapache.com/online-tools/figlet-ascii/
 
 ## Videos
-Demo [WIP]
+Demo: https://youtu.be/aN5SDMFWyw4
 
 Walkthrough [WIP]
