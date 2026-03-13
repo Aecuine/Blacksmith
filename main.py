@@ -27,9 +27,7 @@ UNDERLINE = '\033[4m'
 
 # Main driver
 def main():
-    titleDisplayed = False
-    if titleDisplayed == False:
-        title()
+    title()
     running = True
     FORGE = Sword()
     while running:
