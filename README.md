@@ -14,4 +14,4 @@ Title art thanks to this FIGlet generator: https://www.askapache.com/online-tool
 ## Videos
 Demo: https://youtu.be/aN5SDMFWyw4
 
-Walkthrough [WIP]
+Walkthrough: https://youtu.be/GjvBILg-j-k
